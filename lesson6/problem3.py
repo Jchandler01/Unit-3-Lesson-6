@@ -1,0 +1,8 @@
+name = input('What is your name? ')
+print(name + ' SUCKS!!!!')
+color = input('what is your favorite? ')
+print(color + ' SUCKS!!!!')
+subject = input('What is your favorite subject? ')
+print(subject + ' SUCKS!!!!!!')
+animal = input('What is your favorite animal? ')
+print(animal + ' SUCK!!!!') 
